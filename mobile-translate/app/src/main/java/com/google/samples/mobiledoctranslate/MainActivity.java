@@ -79,7 +79,7 @@ public class MainActivity extends Activity
     /**
      * The script ID for the Apps Script the add-on will call
      */
-    private static final String SCRIPT_ID = "ENTER_YOUR_SCRIPT_ID_HERE";
+    private static final String SCRIPT_ID = "M54_mAL8Cw-8KmVMSL0tKw3xXveXX26VG";
 
     // Constants
     private static final String FUNCTION_GET_TEXT = "getTextAndTranslation";
